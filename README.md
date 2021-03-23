@@ -1,4 +1,4 @@
-# Deploy A Directus App
+# How to Deploy a Directus App on Cleavr.io
 
 [Directus](https://directus.io/) is and open source app that wraps your new or existing SQL database with a realtime GraphQL + REST API for developers, and an intuitive admin app for non-technical users. It supports PostgreSQL, MySQL, SQLite, Microsoft SQL Server, OracleDB, MariaDB, AWS Aurora and more.
 
